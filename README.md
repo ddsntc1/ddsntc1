@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Donguk Kang,</h1>
-<h3 align="center">A passionate AI Engineer from Korea</h3>
+<h1 align="center">안녕하십니까, AI Engineer을 꿈꾸는 강동욱 입니다.</h1>
+<h3 align="center">LLM을 통해 사용자에게 친숙한 서비스를 제공하는 것을 목표로 하고있습니다.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddsntc1&label=Profile%20views&color=0e75b6&style=flat" alt="ddsntc1" /> </p>
 
-- 🔭 I’m currently working on LLMOPs & RAG [Chatbot_FutFut](https://github.com/ddsntc1/Chatbot_FutFut)
+- 최근 LLM Fine-tuning & RAG 프로젝트를 통해 LLM 숙련도를 높이고 있습니다. [Chatbot_FutFut](https://github.com/ddsntc1/Chatbot_FutFut)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
