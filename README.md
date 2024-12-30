@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm [ddsntc1]!
+# 👋 Hello, I'm Dongwook!
 
 **"Let's do it well rather than just working hard."**  
 I'm an aspiring **AI Developer** passionate about **Machine Learning**, **Generative AI**, and creating impactful solutions with the latest technologies. 🚀
@@ -12,6 +12,7 @@ I'm an aspiring **AI Developer** passionate about **Machine Learning**, **Genera
 - 🛠️ **Tech Stack:** Python, Django, FastAPI, PyTorch, CUDA, and more.  
 - 🎓 **Background:** Industrial Information Systems Engineering major, with experience in AI projects like chatbot development and smart factory optimization.  
 - 💡 **Learning Goals:** Continuously exploring **Transformer architectures**, **RAG techniques**, and other cutting-edge AI methods.  
+- 📊 **Full-Stack Projects:** Actively improving front-end skills using **HTML, CSS**, and integrating them with **Django** for web development.  
 
 ---
 
@@ -22,7 +23,7 @@ I'm an aspiring **AI Developer** passionate about **Machine Learning**, **Genera
 
 ---
 
-## 📌 Skills and Tools
+## 🕐 Skills and Tools
 
 ### 💻 Programming Languages & Frameworks
 - **Languages:** Python, C++, SQL  
@@ -30,22 +31,24 @@ I'm an aspiring **AI Developer** passionate about **Machine Learning**, **Genera
 
 ### 🛠️ Tools & Platforms
 - **DevOps:** Docker, Git, AWS, GCP  
+- **Web Development:** HTML, CSS, JavaScript  
 - **Data Analysis:** Pandas, NumPy, Matplotlib  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 LLM-based Chatbot
+### 🧬 LLM-based Chatbot
 A customer service chatbot using **RAG** and **LoRA fine-tuning** for enhanced information retrieval and faster inference.
 
 - 🌐 [Project Repository](#)  
 - 🛠️ Techniques: Retrieval-Augmented Generation, Model Quantization  
 
-### 🏭 Smart Factory Optimization
-Developed data-driven models for **manufacturing site analysis** to improve efficiency and sustainability.
+### 📺 Full-Stack Web Application
+Developed a feature-rich web application integrating **Django** with **HTML/CSS**, showcasing front-end and back-end expertise.
 
-- 🔗 [Project Details](#)
+- 🌐 [Project Repository](#)  
+- 🛠️ Techniques: Django REST Framework, Responsive Web Design  
 
 ---
 
