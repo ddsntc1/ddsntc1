@@ -51,9 +51,9 @@ Developed data-driven models for **manufacturing site analysis** to improve effi
 
 ## 📫 Let's Connect!
 
-- 🌍 [GitHub](https://github.com/ddsntc1)  
-- 💼 [LinkedIn](#)  
-- ✉️ Email: [your_email@example.com](mailto:your_email@example.com)
+- 🌍 [GitHub](https://github.com/ddsntc1)
+- 🤗 [HuggingFace](https://huggingface.co/Dongwookss)  
+- ✉️ Email: [jangjae23@gmail.com](mailto:jangjae23@gmail.com)
 
 ---
 
